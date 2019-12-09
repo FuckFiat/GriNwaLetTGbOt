@@ -38,13 +38,6 @@ python3.7 -m pip install requests
 After all installation move the bot.py file to grin/grin-wallet and picture grin.png 
 Open file bot.py  and change:
 
-TOKEN = "1056341881:AAEKYEkс-QVtKIмtzSgIFL06ahUIOnkPemo"	Here is the bot token that you receive from botFather
-password = 'Zalupa9563'  	Here is the password for the grin-wallet
-admin_id = [771844687, 730668]	Here is your telegram ID from @get_id_bot
-grin_pass_api = 'zijvVcc6GH5BYgznbR6K'  	Enter the contents of the file here /root/.grin/main/.api_secret
-
-
-
 TOKEN = "1056341881:AAEKYEkс-QVtKIмtzSgIFL06ahUIOnkPemo"   
  > Here is the bot token that you receive from botFather
 password = 'Zalupa9563'                                    
