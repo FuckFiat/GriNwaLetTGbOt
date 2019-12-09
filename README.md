@@ -1,7 +1,9 @@
 # GriNwaLetTGbOt
 
 Install python3.7  
-debian:   
+  
+debian:  
+  
 (https://linuxize.com/post/how-to-install-python-3-7-on-debian-9/)  
 sudo apt update  
 sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev wget  
@@ -12,6 +14,7 @@ cd Python-3.7.3
 make -j 8  
 sudo make altinstall  
 python3.7 --version  
+  
 UBUNTU:  
 (https://linuxize.com/post/how-to-install-python-3-7-on-ubuntu-18-04/)  
 sudo apt update  
