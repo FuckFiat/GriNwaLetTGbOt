@@ -35,7 +35,7 @@ python3.7 -m pip install asyncio
 python3.7 -m pip install requests
 
 
-After all instalation move the bot.py file to grin/grin-wallet   and picture grin.png 
+After all instalation move the bot.py file to grin/grin-wallet and picture grin.png 
 Open file bot.py  and change:
 
 TOKEN = "1056341881:AAEKYEkс-QVtKIмtzSgIFL06ahUIOnkPemo"   # Here is the bot token that you receive from botFather
