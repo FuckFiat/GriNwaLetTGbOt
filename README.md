@@ -45,10 +45,14 @@ grin_pass_api = 'zijvVcc6GH5BYgznbR6K'  	Enter the contents of the file here /ro
 
 
 
-TOKEN = "1056341881:AAEKYEkс-QVtKIмtzSgIFL06ahUIOnkPemo"   # Here is the bot token that you receive from botFather
-password = 'Zalupa9563'                                    # Here is the password for the grin-wallet
-admin_id = [771844687, 730668]                             # Here is your telegram ID from @get_id_bot
-grin_pass_api = 'zijvVcc6GH5BYgznbR6K'                     # Enter the contents of the file here /root/.grin/main/.api_secret
+TOKEN = "1056341881:AAEKYEkс-QVtKIмtzSgIFL06ahUIOnkPemo"   
+ > Here is the bot token that you receive from botFather
+password = 'Zalupa9563'                                    
+ > Here is the password for the grin-wallet
+admin_id = [771844687, 730668]                            
+ > Here is your telegram ID from @get_id_bot
+grin_pass_api = 'zijvVcc6GH5BYgznbR6K'                     
+ > Enter the contents of the file here /root/.grin/main/.api_secret
 
 
 After that we save the changed script on the server 
@@ -72,5 +76,5 @@ ctrl+c
 python3.7 bot.py 
 CTRL+A+D
 
-GRIN1LOVE 
+# GRIN1LOVE 
 
