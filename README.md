@@ -76,6 +76,5 @@ CTRL+A+D
 
 # GRIN1LOVE   
   
-    
-![alt-текст](https://github.com/FuckFiat/GriNwaLetTGbOt/blob/master/IMG_3562.PNG)
+https://t.me/FuckFiat
 
