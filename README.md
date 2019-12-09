@@ -1,4 +1,6 @@
-# GriNwaLetTGbOt  
+# GriNwaLetTGbOt 
+
+# Work with all versions wallets until 3.0.0 
   
 
 
