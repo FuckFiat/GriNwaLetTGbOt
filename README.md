@@ -1,4 +1,6 @@
-# GriNwaLetTGbOt
+# GriNwaLetTGbOt  
+  
+
 
 Install python3.7  
   
@@ -73,4 +75,7 @@ python3.7 bot.py
 CTRL+A+D  
 
 # GRIN1LOVE   
+  
+    
+![alt-текст](https://github.com/FuckFiat/GriNwaLetTGbOt/blob/master/IMG_3562.PNG)
 
