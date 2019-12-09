@@ -78,3 +78,4 @@ CTRL+A+D
   
 https://t.me/FuckFiat
 
+See Release page
