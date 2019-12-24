@@ -81,3 +81,20 @@ CTRL+A+D
 https://t.me/FuckFiat
 
 See Release page
+
+UPD:
+
+1.0.2 advanced instruction:
+
+Add Tx List
+Add Tx Cancel
+Add balance button
+
+UPD:
+For get TXS:
+screen -S apiv2
+grin-wallet owner_api
+ctrl + a + d
+
+Get variable from .owner_api_secret and insert to
+grin_pass_api_v2
